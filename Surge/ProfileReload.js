@@ -16,6 +16,6 @@ $httpAPI("POST", "/v1/profiles/reload", {}, data => {
         title: "Profile Reload",
         content: "Profile Reload Success",
         icon: "doc.text",
-        "icon-color": "#432F2F",
+        "icon-color": "#928178",
      })
     });
