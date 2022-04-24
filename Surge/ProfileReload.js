@@ -15,7 +15,7 @@ $httpAPI("POST", "/v1/profiles/reload", {}, data => {
     $done({
         title: "Profile Reload",
         content: "Profile Reload Success",
-        icon: "terminal",
+        icon: "doc.text",
         "icon-color": "#5AC8FA",
      })
     });
